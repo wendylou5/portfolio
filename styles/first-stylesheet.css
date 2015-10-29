@@ -42,6 +42,7 @@ article {
 }
 
 aside {
+    width: 33%;
     text-align: left;
     background: #CCFFCC;
 		padding: 1rem;
