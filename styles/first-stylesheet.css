@@ -87,6 +87,7 @@ footer {
 		font-size: .8rem;
 		}
 
-p.footer {
+footer p {
 		font-family: Georgia, serif;
-    font-size: small;
+    font-size: .8rem;
+}
