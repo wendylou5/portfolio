@@ -17,14 +17,14 @@ header nav {
 }
 
 header nav li {
-	float: left;
-	width: 20%;
+  float: left;
+  width: 20%;
   background-color: #005E7F;
   padding: 5px;
   border: 2px solid white;
   font-family: 'Droid Sans', sans-serif;
   font-size: 1.25rem;
- 	text-align: center;
+  text-align: center;
 }
 
 header nav a {
@@ -52,7 +52,6 @@ h2 {
   color: #005E7F;
   text-align: left;
 }
-  
 
 h3 {
   font-family: 'Droid Sans', sans-serif;
@@ -80,7 +79,7 @@ ul {
 }
 
 nav li { 
-	list-style: none;
+  list-style: none;
 }
 
 a {
